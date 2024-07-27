@@ -1,0 +1,1 @@
+{"pyinstaller": {"теги": ["pyinstaller"], "текст": "pip install pyinstaller\n\npyinstaller name.py\n\ndist open in Explorer\n"}}
